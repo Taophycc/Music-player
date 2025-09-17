@@ -4,19 +4,18 @@ A sleek and simple music player built with HTML, CSS, and vanilla JavaScript. Th
 
 ## 👾 Demo
 
-[Link to Live Demo](https://musicc-playerr-vercel.app)
+[Link to Live Demo](https://musicc-playerr.vercel.app)
 
-![Music Player Demo](./GIF.mp4)
-
+![Music Player Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhlcWowdGhueHIwZjd3MGJkemZqMTZsaXlvNm44ZWs3Z2U5eDVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlLBmHKJyw6my4f1lM/giphy.gif)
 
 ## 🎵 Features
 
-*   Play, pause, and skip between tracks.
-*   Visual feedback for the currently playing song, including album art, title, and artist.
-*   A progress bar that shows the current playback time and total duration of the song.
-*   Clickable progress bar to seek to a specific point in the song.
-*   Responsive design that adapts to different screen sizes.
-*   Song data loaded dynamically from a JSON file.
+- Play, pause, and skip between tracks.
+- Visual feedback for the currently playing song, including album art, title, and artist.
+- A progress bar that shows the current playback time and total duration of the song.
+- Clickable progress bar to seek to a specific point in the song.
+- Responsive design that adapts to different screen sizes.
+- Song data loaded dynamically from a JSON file.
 
 ## Getting Started
 
@@ -67,32 +66,32 @@ You will need a modern web browser that supports HTML5, CSS3, and JavaScript (ES
 
 ## 🛠️ Technologies Used
 
-*   HTML5
-*   CSS3
-*   JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ### Web APIs Used
 
-*   **HTML5 Audio API:** Used for playing and controlling the audio.
-*   **Fetch API:** Used to dynamically load song data from a JSON file.
+- **HTML5 Audio API:** Used for playing and controlling the audio.
+- **Fetch API:** Used to dynamically load song data from a JSON file.
 
 ## Credits
 
-*   **Images:**
-    *   [@infernisvox](https://unsplash.com/@infernisvox) on Unsplash
-    *   [@pawel_czerwinski](https://unsplash.com/@pawel_czerwinski) on Unsplash
-    *   [@lumigraphy](https://unsplash.com/@lumigraphy) on Unsplash
-    *   [@liminal_angel](https://unsplash.com/@liminal_angel) on Unsplash
-*   **Music:**
-    *   Kevin MacLeod ([FreePD.com](http://FreePD.com))
-    *   Rafael Krux ([FreePD.com](http://FreePD.com))
+- **Images:**
+  - [@infernisvox](https://unsplash.com/@infernisvox) on Unsplash
+  - [@pawel_czerwinski](https://unsplash.com/@pawel_czerwinski) on Unsplash
+  - [@lumigraphy](https://unsplash.com/@lumigraphy) on Unsplash
+  - [@liminal_angel](https://unsplash.com/@liminal_angel) on Unsplash
+- **Music:**
+  - Kevin MacLeod ([FreePD.com](http://FreePD.com))
+  - Rafael Krux ([FreePD.com](http://FreePD.com))
 
 ## 👤 Author
 
 **Taofeek Kassim**
 
 - GitHub: [@Taophycc](https://github.com/Taophycc)
-- Twitter: [@Taophyc_](https://x.com/Taophyc_)
+- Twitter: [@Taophyc\_](https://x.com/Taophyc_)
 
 ## 📜 License
 
