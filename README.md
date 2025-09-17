@@ -2,14 +2,14 @@
 
 A sleek and simple music player built with HTML, CSS, and vanilla JavaScript. This project demonstrates the use of Web APIs to create a functional and visually appealing music player.
 
-## Demo
+## 👾 Demo
 
-[Link to Live Demo](https://your-live-demo-link.com)
+[Link to Live Demo](https://musicc-playerr-vercel.app)
 
-![Music Player Demo](./demo.gif)
+![Music Player Demo](./GIF.mp4)
 
 
-## Features
+## 🎵 Features
 
 *   Play, pause, and skip between tracks.
 *   Visual feedback for the currently playing song, including album art, title, and artist.
@@ -65,7 +65,7 @@ You will need a modern web browser that supports HTML5, CSS3, and JavaScript (ES
 └── README.md
 ```
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 *   HTML5
 *   CSS3
@@ -87,6 +87,13 @@ You will need a modern web browser that supports HTML5, CSS3, and JavaScript (ES
     *   Kevin MacLeod ([FreePD.com](http://FreePD.com))
     *   Rafael Krux ([FreePD.com](http://FreePD.com))
 
-## License
+## 👤 Author
+
+**Taofeek Kassim**
+
+- GitHub: [@Taophycc](https://github.com/Taophycc)
+- Twitter: [@Taophyc_](https://x.com/Taophyc_)
+
+## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
