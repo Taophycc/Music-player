@@ -133,6 +133,8 @@ h3 {
 
   .player-controls {
     top: -10px;
-    left: 100px;
+    left: 73%;
+    transform: translateX(-50%);
+    width: 100%;
   }
 }
