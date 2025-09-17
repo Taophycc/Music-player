@@ -1,0 +1,138 @@
+/*Image created by: https://unsplash.com/@infernisvox */ /* Images created by: https://unsplash.com/@pawel_czerwinski */
+/*Image created by: https://unsplash.com/@lumigraphy */ /*Image created by:https://unsplash.com/@liminal_angel */
+/* Music: “Modern Island Jam”,“Meditating Beat” by Kevin MacLeod (FreePD.com) */ /* Music: “The Celebrated Minuet”, “Nostalgic Piano” by Rafael Krux (FreePD.com) */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #c9ced3;
+  background: #b1ceeb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 12px;
+}
+
+.player-container {
+  height: 420px;
+  width: 350px;
+  background: #e7e7e8;
+  border-radius: 20px;
+  box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
+}
+
+.img-container {
+  height: 280px;
+  width: 280px;
+  position: relative;
+  top: -45px;
+  left: 35px;
+}
+
+.img-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.5);
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: 500;
+  text-align: center;
+  margin: 0;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 300;
+  margin: 5px 0 0;
+}
+
+/* Progress */
+.progress-container {
+  font-family: Montserrat, sans sans-serif;
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 27px;
+  margin-bottom: 35px;
+  margin-inline: 10px;
+  height: 3px;
+  width: 90%;
+}
+
+.progress {
+  background: #242323;
+  border-radius: 5px;
+  height: 100%;
+  width: 0%;
+  transition: width 0.1s linear;
+  cursor: pointer;
+}
+
+.duration-wrapper {
+  position: relative;
+  top: -25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Controls */
+.player-controls {
+  position: relative;
+  top: -15px;
+  left: 65px;
+  width: 200px;
+}
+
+.fas {
+  font-size: 30px;
+  color: rgb(129, 129, 129);
+  margin-right: 30px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fas:hover {
+  filter: brightness(80%);
+}
+
+.main-button {
+  font-size: 35px;
+  position: relative;
+  top: 1px;
+}
+
+@media screen and (max-width: 376px) {
+  .player-container {
+    width: 95vw;
+  }
+  .img-container {
+    left: 29px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  .player-controls {
+    top: -10px;
+    left: 100px;
+  }
+}
